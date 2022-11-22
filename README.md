@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**RoberFonseca/RoberFonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Lisbon, Portugal.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Currently working on a Tonic3 project;
+- 📖 Currently learning pentesting for fun;
+- 🇦🇷 Messi Lover;
+- 🍌 Banana Enjoyer?
+
+##### BIO
+
+- 🏢 I'm currently looking for a job :)
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.node`, `.react`, `.ai`
+- 🌍 I'm mostly active within the **React Community**
+- 💅 Designed: -
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
+- ⚡️ Fun fact: I'm a huge fan of Berserk
