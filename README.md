@@ -7,7 +7,7 @@
 - ✨ Currently working on a Tonic3 project;
 - 📖 Currently learning pentesting for fun;
 - 🇦🇷 Messi Lover;
-- 🍌 Banana Enjoyer?
+- 🍌 Banana Enjoyer?;
 
 ##### BIO
 
