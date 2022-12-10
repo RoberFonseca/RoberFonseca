@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer working in Mendoza, Argentina.
 
 ##### NOW
 
 - ✨ Currently working on a Tonic3 project;
 - 📖 Currently learning pentesting for fun;
 - 🇦🇷 Messi Lover;
-- 🍌 Banana Enjoyer?;
 
 ##### BIO
 
