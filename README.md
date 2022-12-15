@@ -11,8 +11,8 @@
 ##### BIO
 
 - 🏢 I'm currently looking for a job :)
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.node`, `.react`, `.ai`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.node`, `.react`
 - 🌍 I'm mostly active within the **Node and React Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
+- 💬 Ping me about **react**, **node**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Berserk
