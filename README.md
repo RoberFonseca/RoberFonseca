@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Currently working on a Tonic3 project;
+- ✨ Currently deep diving into Node.js;
 - 📖 Currently learning pentesting for fun;
 - 🇦🇷 Messi Lover;
 
