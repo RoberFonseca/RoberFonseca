@@ -5,6 +5,7 @@
 ##### NOW
 
 - ✨ Working on a appointments app :);
+- 🎮 Learning C++ for game development :D;
 - 📖 Currently learning pentesting for fun;
 - 🇦🇷 Messi Lover;
 
