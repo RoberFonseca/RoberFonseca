@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Currently deep diving into Node.js;
+- ✨ Working on a appointments app :);
 - 📖 Currently learning pentesting for fun;
 - 🇦🇷 Messi Lover;
 
