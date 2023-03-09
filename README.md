@@ -5,7 +5,6 @@
 ##### NOW
 
 - ✨ Working on a appointments app :);
-- 🎮 Learning C++ for game development :D;
 - 📖 Currently learning pentesting for fun;
 - 🇦🇷 Messi Lover;
 
@@ -15,5 +14,5 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.node`, `.react`
 - 🌍 I'm mostly active within the **Node and React Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **react**, **node**, **development**, **design thinking**
+- 💬 Ping me about **react**, **node**, **development**, **design thinking**, **pentesting**
 - ⚡️ Fun fact: I'm a huge fan of Berserk
