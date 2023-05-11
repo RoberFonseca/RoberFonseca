@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Working on a appointments app :);
+- ✨ Working on an app to help therapists make observations and reports :);
 - 📖 Currently learning pentesting for fun;
 - 🇦🇷 Messi Lover;
 
