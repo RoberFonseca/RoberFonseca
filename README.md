@@ -4,6 +4,6 @@
 
 ##### NOW
 
-- ✨ Working as a Pentester / Read Teamer for Datasec :);
+- ✨ Working as a Pentester for Datasec :);
 - 🇦🇷 Messi Lover;
 
